@@ -1,0 +1,11 @@
+{
+    "require": {
+        "endroid/qr-code": "^4.4",
+        "google/recaptcha": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Project\\": "htdocs/local/src/Project"
+        }
+    }
+}
